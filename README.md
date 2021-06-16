@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TyroneJensen
-- 👀 I’m interested in web development, AI and hacking!
+- 👀 I’m interested in web development, AI and ethical hacking!
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on anything to increase my skills
 - 📫 How to reach me: www.linkedin.com/in/tyronejensen
